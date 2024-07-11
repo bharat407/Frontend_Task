@@ -6,7 +6,7 @@
 
 -  FRONT-END Assignment Rounds.
 
-- Tech Stack Required are : Reactjs,CSS,NextJs.
+- Tech Stack Required are : Reactjs,CSS,NextJs etc.
   
 - Any code plagiarism found would result in direct rejection.
   
